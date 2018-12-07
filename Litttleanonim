@@ -1,0 +1,8 @@
+~ $ git clone https://github.com/littleanonim/littleanonim.github.io
+~ $ cd littleanonim.github.io
+~ $ echo "hello world" > index.html
+~ $ git add --all
+~ $ git commit -m "Initial commit"
+~ $ git push -u origin master
+
+
